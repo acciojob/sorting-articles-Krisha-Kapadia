@@ -1,1 +1,16 @@
-/*  your css code here. If applicable */
+
+    body {
+      font-family: Arial, sans-serif;
+      background: url('https://www.google.com/search?q=scenery+images&oq=scenert&gs_lcrp=EgZjaHJvbWUqDAgCEAAYChixAxiABDIGCAAQRRg5MgwIARAAGAoYsQMYgAQyDAgCEAAYChixAxiABDIMCAMQABgKGLEDGIAEMgwIBBAAGAoYsQMYgAQyCQgFEAAYChiABDIJCAYQABgKGIAEMgkIBxAAGAoYgAQyDAgIEAAYChixAxiABDIJCAkQABgKGIAE0gEINDY4OGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8#vhid=tQQ9qeTO6KKFwM&vssid=_ogcjaOGHAZ25seMP2eqHqQc_38') no-repeat center center fixed;
+      background-size: cover;
+    }
+    ul#band {
+      background-color: rgba(255, 255, 255, 0.8);
+      padding: 20px;
+      max-width: 300px;
+      margin: 50px auto;
+      list-style-type: square;
+    }
+    li {
+      padding: 5px 0;
+    }
